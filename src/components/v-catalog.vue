@@ -1,5 +1,5 @@
 <template>
-  <h1>Hallo, Im Catalog!</h1>
+  <h1>Hallo, Im Catalog!!!</h1>
   <div class="v-catalog">
     <vCatalogItem
       v-for="product in products"
